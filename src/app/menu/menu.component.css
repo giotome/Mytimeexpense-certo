@@ -1,0 +1,17 @@
+.navlateral-principal{
+    list-style-type: none;
+    width: 10%;
+    height: 100%;
+    /* float: left; */
+    background-color: white;
+    
+    margin-top: -1.5%;
+    margin-left: 10px;
+  
+}
+
+.navlateral-total{
+    margin-bottom: 10px;
+}
+
+

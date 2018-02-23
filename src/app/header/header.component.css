@@ -1,0 +1,50 @@
+.header{
+    
+    
+    height: 10px;
+    padding: 20px 0px;
+    background-color: orange;
+    margin: 10px;
+    display: flex;
+    
+    
+    
+}
+
+img{
+  
+    background-color:transparent;
+    height: 45px;
+    
+}
+.oi{
+    color: white;
+    background-color: transparent;
+    display: flex;
+    margin-top: -21px;
+    
+}
+
+#icones{
+    display: flex;
+    margin: 5px;
+    align-content: center;
+    margin-left:650px;
+    margin-top: 6px;
+}
+
+.separar{
+    margin-left: 8px;
+    
+}
+
+.tamanho{
+    font-size: 30px;
+    margin-top: 6px;
+    margin-left: 12px;
+    
+}
+
+.lado{
+    display: flex;
+}
